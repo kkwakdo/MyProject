@@ -1,0 +1,3 @@
+dogs_vs_cats.ipynb 파일은 처음 CNN으로 Dogs vs Cats를 분류한 파일이고
+dogs_vs_cats_mod.ipynb 파일은 CNN의 hidden layer를 변형하여 위의 Dogs vs Cats 데이터를 분류하였습니다.
+데이터의 경우 Kaggle에 있는 Dogs vs Cats의 train.zip 파일과 test1.zip 파일을 사용하였습니다.
